@@ -3,6 +3,7 @@
 
    # Cotizador del dolar para WHMCS #
    # github.com/joselsp95 #
+   # Agregar a cron en tu webhosting a la hora que desees para cuando queres que se actualice tu valor dolar venta a peso argentino #
 
    /* MySQL Conexion*/
    $link = mysqli_connect("localhost", "usuario", "passwword", "db");
